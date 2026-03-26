@@ -23,7 +23,7 @@ Chybné formátování `sprintf()` řetězců v souborech `.po`, `.mo` a `.l10n.
 Nahraďte soubory v adresáři:
 `wp-content/languages/plugins/`
 
-*Poznámka: Neukládejte přímo do složky pluginu, aby nedošlo k přepsání při aktualizaci.*
+*Poznámka: Neukládejte přímo do složky pluginu s překlady.*
 
 ---
 **Changelog:** Fix fatal errors in CZ translation (improper % escaping and placeholder syntax) for PHP 8+ compatibility.
